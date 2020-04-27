@@ -4,10 +4,17 @@
         <title>Syntagi - Consult my Doctor Online</title>
         <item>
             <title>Version 1.0.11-beta23</title>
-            <description>Refrash</description>
+            <description>Update app</description>
             <pubDate>Mon, 27 Jun 2020 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.syntagi.patients" 
                 sparkle:version="1.0.11-beta23" sparkle:os="android" />
+        </item>
+         <item>
+            <title>Version 1.2.0</title>
+            <description>Update app</description>
+            <pubDate>Mon, 27 Jun 2020 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/syntagi-consult-doctor-online/id1479574621" 
+                sparkle:version="1.2.0" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
