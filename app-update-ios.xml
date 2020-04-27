@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Syntagi - Consult my Doctor Online</title>
+        <item>
+            <title>Version 1.2.0</title>
+            <description>Update app</description>
+            <pubDate>Mon, 27 Jun 2020 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/syntagi-consult-doctor-online/id1479574621" 
+                sparkle:version="1.2.0" sparkle:os="iOS" />
+        </item>
+    </channel>
+</rss>
